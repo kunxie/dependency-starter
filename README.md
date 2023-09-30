@@ -1,1 +1,1 @@
-# dependency-starter
+# maven-starter
