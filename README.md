@@ -1,1 +1,1 @@
-# java-dependency-starter
+# dependency-starter
