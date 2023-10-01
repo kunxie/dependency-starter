@@ -1,5 +1,5 @@
 
-name: This Workflow is a standard CI/CD pipeline
+name: Standard Java Build with Maven
 
 # workflow will be triggered by each pull request on main
 on:
