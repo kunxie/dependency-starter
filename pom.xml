@@ -54,7 +54,6 @@
     <java.version>17</java.version>
   </properties>
 
-
   <modules>
     <module>springboot-starter</module>
   </modules>
