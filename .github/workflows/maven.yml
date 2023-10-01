@@ -1,9 +1,12 @@
 
 name: Standard Java Build with Maven
 
-# workflow will be triggered by each pull request on main
+# workflow will be triggered by each pull_request or push on main branch
 on:
   pull_request:
+    branches:
+      - main
+  push:
     branches:
       - main
 
